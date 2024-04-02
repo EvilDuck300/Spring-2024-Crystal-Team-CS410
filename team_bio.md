@@ -86,7 +86,7 @@ into creating custom apps to suit her unique interests and create an entirely pe
 
 <img src="assets/images/Bio/AdamAdam.jpg" style="width: 150px;">
 
-As someone who runs their business while also pursuing a full time degree at ODU they are deeply committed
+ Adam Adam who runs their business while also pursuing a full time degree at ODU they are deeply committed
 to both entrepreneurship and education. Their commitment to professional development shines through as they juggle the responsibilities of managing a business alongside advancing their pursuits. 
 Apart from their work and studies they find joy in playing basketball, football and soccer showcasing a rounded approach to life. 
 Their main focus in class currently is exploring solutions to tackle challenges, in business environments by working on a technology centered project.
